@@ -1,0 +1,22 @@
+C:\Users\xormi\source\repos\Les4Oefening1\Oefening1\bin\Debug\netcoreapp2.1\Oefening1.deps.json
+C:\Users\xormi\source\repos\Les4Oefening1\Oefening1\bin\Debug\netcoreapp2.1\Oefening1.runtimeconfig.json
+C:\Users\xormi\source\repos\Les4Oefening1\Oefening1\bin\Debug\netcoreapp2.1\Oefening1.runtimeconfig.dev.json
+C:\Users\xormi\source\repos\Les4Oefening1\Oefening1\bin\Debug\netcoreapp2.1\Oefening1.dll
+C:\Users\xormi\source\repos\Les4Oefening1\Oefening1\bin\Debug\netcoreapp2.1\Oefening1.pdb
+C:\Users\xormi\source\repos\Les4Oefening1\Oefening1\obj\Debug\netcoreapp2.1\Oefening1.csprojAssemblyReference.cache
+C:\Users\xormi\source\repos\Les4Oefening1\Oefening1\obj\Debug\netcoreapp2.1\Oefening1.csproj.CoreCompileInputs.cache
+C:\Users\xormi\source\repos\Les4Oefening1\Oefening1\obj\Debug\netcoreapp2.1\Oefening1.AssemblyInfoInputs.cache
+C:\Users\xormi\source\repos\Les4Oefening1\Oefening1\obj\Debug\netcoreapp2.1\Oefening1.AssemblyInfo.cs
+C:\Users\xormi\source\repos\Les4Oefening1\Oefening1\obj\Debug\netcoreapp2.1\Oefening1.dll
+C:\Users\xormi\source\repos\Les4Oefening1\Oefening1\obj\Debug\netcoreapp2.1\Oefening1.pdb
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# basis\Les4Oefening1\Oefening1\bin\Debug\netcoreapp2.1\Oefening1.deps.json
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# basis\Les4Oefening1\Oefening1\bin\Debug\netcoreapp2.1\Oefening1.runtimeconfig.json
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# basis\Les4Oefening1\Oefening1\bin\Debug\netcoreapp2.1\Oefening1.runtimeconfig.dev.json
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# basis\Les4Oefening1\Oefening1\bin\Debug\netcoreapp2.1\Oefening1.dll
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# basis\Les4Oefening1\Oefening1\bin\Debug\netcoreapp2.1\Oefening1.pdb
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# basis\Les4Oefening1\Oefening1\obj\Debug\netcoreapp2.1\Oefening1.csprojAssemblyReference.cache
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# basis\Les4Oefening1\Oefening1\obj\Debug\netcoreapp2.1\Oefening1.csproj.CoreCompileInputs.cache
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# basis\Les4Oefening1\Oefening1\obj\Debug\netcoreapp2.1\Oefening1.AssemblyInfoInputs.cache
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# basis\Les4Oefening1\Oefening1\obj\Debug\netcoreapp2.1\Oefening1.AssemblyInfo.cs
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# basis\Les4Oefening1\Oefening1\obj\Debug\netcoreapp2.1\Oefening1.dll
+C:\Users\xormi\Dropbox\UCLL\Programmeren C# basis\Les4Oefening1\Oefening1\obj\Debug\netcoreapp2.1\Oefening1.pdb

@@ -1,0 +1,11 @@
+C:\Users\henkv\OneDrive\Documents\UCLL\Programmeren met C# - Basis\Practicum\EindProject\Ucll.BasisEindProject\Ucll.BasisEindProject\bin\Debug\netcoreapp2.1\Ucll.BasisEindProject.deps.json
+C:\Users\henkv\OneDrive\Documents\UCLL\Programmeren met C# - Basis\Practicum\EindProject\Ucll.BasisEindProject\Ucll.BasisEindProject\bin\Debug\netcoreapp2.1\Ucll.BasisEindProject.runtimeconfig.json
+C:\Users\henkv\OneDrive\Documents\UCLL\Programmeren met C# - Basis\Practicum\EindProject\Ucll.BasisEindProject\Ucll.BasisEindProject\bin\Debug\netcoreapp2.1\Ucll.BasisEindProject.runtimeconfig.dev.json
+C:\Users\henkv\OneDrive\Documents\UCLL\Programmeren met C# - Basis\Practicum\EindProject\Ucll.BasisEindProject\Ucll.BasisEindProject\bin\Debug\netcoreapp2.1\Ucll.BasisEindProject.dll
+C:\Users\henkv\OneDrive\Documents\UCLL\Programmeren met C# - Basis\Practicum\EindProject\Ucll.BasisEindProject\Ucll.BasisEindProject\bin\Debug\netcoreapp2.1\Ucll.BasisEindProject.pdb
+C:\Users\henkv\OneDrive\Documents\UCLL\Programmeren met C# - Basis\Practicum\EindProject\Ucll.BasisEindProject\Ucll.BasisEindProject\obj\Debug\netcoreapp2.1\Ucll.BasisEindProject.csprojAssemblyReference.cache
+C:\Users\henkv\OneDrive\Documents\UCLL\Programmeren met C# - Basis\Practicum\EindProject\Ucll.BasisEindProject\Ucll.BasisEindProject\obj\Debug\netcoreapp2.1\Ucll.BasisEindProject.csproj.CoreCompileInputs.cache
+C:\Users\henkv\OneDrive\Documents\UCLL\Programmeren met C# - Basis\Practicum\EindProject\Ucll.BasisEindProject\Ucll.BasisEindProject\obj\Debug\netcoreapp2.1\Ucll.BasisEindProject.AssemblyInfoInputs.cache
+C:\Users\henkv\OneDrive\Documents\UCLL\Programmeren met C# - Basis\Practicum\EindProject\Ucll.BasisEindProject\Ucll.BasisEindProject\obj\Debug\netcoreapp2.1\Ucll.BasisEindProject.AssemblyInfo.cs
+C:\Users\henkv\OneDrive\Documents\UCLL\Programmeren met C# - Basis\Practicum\EindProject\Ucll.BasisEindProject\Ucll.BasisEindProject\obj\Debug\netcoreapp2.1\Ucll.BasisEindProject.dll
+C:\Users\henkv\OneDrive\Documents\UCLL\Programmeren met C# - Basis\Practicum\EindProject\Ucll.BasisEindProject\Ucll.BasisEindProject\obj\Debug\netcoreapp2.1\Ucll.BasisEindProject.pdb

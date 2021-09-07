@@ -1,0 +1,11 @@
+C:\Users\xormi\source\repos\Les3Oefeningen1-2\Oefening2\bin\Debug\netcoreapp2.1\Oefening2.deps.json
+C:\Users\xormi\source\repos\Les3Oefeningen1-2\Oefening2\bin\Debug\netcoreapp2.1\Oefening2.runtimeconfig.json
+C:\Users\xormi\source\repos\Les3Oefeningen1-2\Oefening2\bin\Debug\netcoreapp2.1\Oefening2.runtimeconfig.dev.json
+C:\Users\xormi\source\repos\Les3Oefeningen1-2\Oefening2\bin\Debug\netcoreapp2.1\Oefening2.dll
+C:\Users\xormi\source\repos\Les3Oefeningen1-2\Oefening2\bin\Debug\netcoreapp2.1\Oefening2.pdb
+C:\Users\xormi\source\repos\Les3Oefeningen1-2\Oefening2\obj\Debug\netcoreapp2.1\Oefening2.csprojAssemblyReference.cache
+C:\Users\xormi\source\repos\Les3Oefeningen1-2\Oefening2\obj\Debug\netcoreapp2.1\Oefening2.csproj.CoreCompileInputs.cache
+C:\Users\xormi\source\repos\Les3Oefeningen1-2\Oefening2\obj\Debug\netcoreapp2.1\Oefening2.AssemblyInfoInputs.cache
+C:\Users\xormi\source\repos\Les3Oefeningen1-2\Oefening2\obj\Debug\netcoreapp2.1\Oefening2.AssemblyInfo.cs
+C:\Users\xormi\source\repos\Les3Oefeningen1-2\Oefening2\obj\Debug\netcoreapp2.1\Oefening2.dll
+C:\Users\xormi\source\repos\Les3Oefeningen1-2\Oefening2\obj\Debug\netcoreapp2.1\Oefening2.pdb

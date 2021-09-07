@@ -1,0 +1,11 @@
+C:\Users\xormi\Dropbox\UCLL\Programmeren 1\Les1Oefening1\Les1Oefening1\bin\Debug\netcoreapp2.1\Les1Oefening1.deps.json
+C:\Users\xormi\Dropbox\UCLL\Programmeren 1\Les1Oefening1\Les1Oefening1\bin\Debug\netcoreapp2.1\Les1Oefening1.runtimeconfig.json
+C:\Users\xormi\Dropbox\UCLL\Programmeren 1\Les1Oefening1\Les1Oefening1\bin\Debug\netcoreapp2.1\Les1Oefening1.runtimeconfig.dev.json
+C:\Users\xormi\Dropbox\UCLL\Programmeren 1\Les1Oefening1\Les1Oefening1\bin\Debug\netcoreapp2.1\Les1Oefening1.dll
+C:\Users\xormi\Dropbox\UCLL\Programmeren 1\Les1Oefening1\Les1Oefening1\bin\Debug\netcoreapp2.1\Les1Oefening1.pdb
+C:\Users\xormi\Dropbox\UCLL\Programmeren 1\Les1Oefening1\Les1Oefening1\obj\Debug\netcoreapp2.1\Les1Oefening1.csprojAssemblyReference.cache
+C:\Users\xormi\Dropbox\UCLL\Programmeren 1\Les1Oefening1\Les1Oefening1\obj\Debug\netcoreapp2.1\Les1Oefening1.csproj.CoreCompileInputs.cache
+C:\Users\xormi\Dropbox\UCLL\Programmeren 1\Les1Oefening1\Les1Oefening1\obj\Debug\netcoreapp2.1\Les1Oefening1.AssemblyInfoInputs.cache
+C:\Users\xormi\Dropbox\UCLL\Programmeren 1\Les1Oefening1\Les1Oefening1\obj\Debug\netcoreapp2.1\Les1Oefening1.AssemblyInfo.cs
+C:\Users\xormi\Dropbox\UCLL\Programmeren 1\Les1Oefening1\Les1Oefening1\obj\Debug\netcoreapp2.1\Les1Oefening1.dll
+C:\Users\xormi\Dropbox\UCLL\Programmeren 1\Les1Oefening1\Les1Oefening1\obj\Debug\netcoreapp2.1\Les1Oefening1.pdb
